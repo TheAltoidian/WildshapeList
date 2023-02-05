@@ -5,7 +5,6 @@ let getAnimal = function() {
                 console.log(data);
             });
         });
-    // console.log(response)
 };
 
 getAnimal();
